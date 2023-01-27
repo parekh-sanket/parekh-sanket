@@ -16,20 +16,6 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics!
-![download](https://user-images.githubusercontent.com/70961848/215059841-4006a9a0-93f5-4859-9174-5f748ef726e1.png)
-
-![download](https://user-images.githubusercontent.com/70961848/215058044-195051cb-efbf-4316-abef-a72c8e9ac514.png)
-![download](https://user-images.githubusercontent.com/70961848/215058169-2a3dfbe0-d700-4717-b3bc-aa9405d13919.png)
-![images](https://user-images.githubusercontent.com/70961848/215058329-306f370b-d296-4a56-bd77-1e20bc265290.png)
-![download](https://user-images.githubusercontent.com/70961848/215058440-9a7227d3-0fdf-4dc0-883f-3ca4ad296d42.png)
-![download](https://user-images.githubusercontent.com/70961848/215058560-06bdd9b6-563f-4391-89b7-56a44947f2bb.png)
-![download](https://user-images.githubusercontent.com/70961848/215058701-cbdcd62f-b4d9-48a1-b74c-a70bb74c94a0.png)
-![download](https://user-images.githubusercontent.com/70961848/215058873-6d564e71-ee86-42bd-82bf-fb55e549052b.png)
-![download](https://user-images.githubusercontent.com/70961848/215059227-8fcc8b82-9543-4559-b96b-21d048224d9b.png)
-![download](https://user-images.githubusercontent.com/70961848/215059327-cd01581a-96dc-4ef6-9e65-7f96f10d5ee0.png)
-![download](https://user-images.githubusercontent.com/70961848/215059458-9350a798-0cfe-4c6e-8947-900b4a437a5d.png)
-![download](https://user-images.githubusercontent.com/70961848/215059556-107d0d76-1fb0-48f7-9084-8e8aba9c8993.png)
-![download](https://user-images.githubusercontent.com/70961848/215059642-5232535f-5220-41b6-8650-38c47dc271ce.jpg)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215057424-2a566c9f-72ba-4079-8fec-afff1590b433.png" alt="bootstrap" width="40" height="40"/> </a> 
