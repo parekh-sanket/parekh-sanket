@@ -1,42 +1,170 @@
-<h1 align="center">Hi there 👋, I'm Sanket Parekh</h1>
-<h3 align="center">Software Developer</h3>
+<!-- ===== HEADER WAVE BANNER ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:6366f1,100:00ADB5&height=200&section=header&text=Sanket%20Parekh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=60" alt="header"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanketparekh&label=Profile%20views&color=blueviolet&style=flat" alt="sanketparekh" /> </p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/parekh-sanket](https://github.com/parekh-sanket)
-
-- 📫 How to reach me **sanketparekh17@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/parekh-sanket-87066b196/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70961848/215056878-027a616c-5c61-40ee-ad65-a6d54dccf006.svg" alt="sanket-parekh" height="45" width="45" /></a>
-<a href="https://leetcode.com/sanketparekh1708/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/70961848/215060451-5f7d3029-7666-4224-8085-6b603988f967.png" alt="sanket-parekh" height="45" width="45" /></a>
+<!-- ===== ANIMATED TYPING SUBTITLE ===== -->
+<p align="center">
+  <a href="">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=The+hardest+problems+rarely+need+more+code;They+need+better+abstractions;That's+the+kind+of+engineering+I+enjoy.;Crafting+products+from+idea+%E2%86%92+production;Simplifying+complexity+through+engineering;Building+scalable+systems+with+ownership;Backend+Engineer+%7C+Product+Builder" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215057424-2a566c9f-72ba-4079-8fec-afff1590b433.png" alt="bootstrap" width="45" height="45"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215057577-4979aa0e-8439-4447-ac4b-a1c0a924971b.png" alt="c" width="45" height="45"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058044-195051cb-efbf-4316-abef-a72c8e9ac514.png" alt="cplusplus" width="45" height="45"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058169-2a3dfbe0-d700-4717-b3bc-aa9405d13919.png" alt="css3" width="45" height="45"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058329-306f370b-d296-4a56-bd77-1e20bc265290.png" alt="express" width="55" height="55"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058440-9a7227d3-0fdf-4dc0-883f-3ca4ad296d42.png" alt="flask" width="45" height="45"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058560-06bdd9b6-563f-4391-89b7-56a44947f2bb.png" alt="html5" width="45" height="45"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058701-cbdcd62f-b4d9-48a1-b74c-a70bb74c94a0.png" alt="javascript" width="45" height="45"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215058873-6d564e71-ee86-42bd-82bf-fb55e549052b.png" alt="mongodb" width="75" height="70"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215059227-8fcc8b82-9543-4559-b96b-21d048224d9b.png" alt="mysql" width="45" height="50"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215059327-cd01581a-96dc-4ef6-9e65-7f96f10d5ee0.png" alt="nodejs" width="45" height="45"/> </a> 
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215061259-6286bae0-6a5e-43ff-b6dd-a7536495fe59.png" alt="postgresql" width="45" height="45"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215059556-107d0d76-1fb0-48f7-9084-8e8aba9c8993.png" alt="postman" width="45" height="45"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215059642-5232535f-5220-41b6-8650-38c47dc271ce.jpg" alt="python" width="45" height="45"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/70961848/215059841-4006a9a0-93f5-4859-9174-5f748ef726e1.png" alt="react" width="45" height="45"/> </a> </p>
+<!-- ===== SOCIAL / PROFILE BADGES ===== -->
+<p align="center">
+  <!-- <a href=""><img src="https://img.shields.io/badge/🚀_Portfolio-rushikeshpurohit.in-0a0a23?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
+  <a href="https://www.linkedin.com/in/parekh-sanket-87066b196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sanketparekh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- <img src="https://komarev.com/ghpvc/?username=parekh-sanket&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" /> -->
+</p>
 
-### ⚙️ &nbsp;GitHub Analytics!
+<br/>
+
+<!-- ===== ABOUT ME ===== -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
+
+
+
+```typescript
+const sanket = {
+  role: "Backend / Product Engineer",
+
+  experience: "~4 Years",
+
+  mission: "Turning ambiguous ideas into production products",
+
+  building: [
+    "AI-powered products",
+    "Agentic workflows",
+    "Distributed backend systems",
+    "Scalable platform architecture"
+  ],
+
+  expertise: [
+    "Node.js",
+    "TypeScript",
+    "Python",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "Kafka",
+    "Docker",
+    "Kubernetes",
+    "AWS"
+  ],
+
+  currentlyExploring: [
+    "LLM Applications",
+    "RAG",
+    "Context Memory",
+    "AI Agents",
+    "System Design"
+  ],
+
+  philosophy: [
+    "Solve problems from first principles",
+    "Simplify complexity through abstractions",
+    "Build products users actually enjoy",
+    "Ownership over job titles"
+  ],
+
+  interests: [
+    "0→1 Products",
+    "Backend Architecture",
+    "Engineering Craftsmanship",
+    "Infrastructure",
+    "Product Thinking"
+  ],
+
+  funFact: "I'd rather remove 1,000 lines of code than write 1,000 more."
+};
+```
+
+- 🚀 &nbsp;Building **AI-powered products**, **distributed backend systems**, and **0→1 platforms**
+- 🧠 &nbsp;Currently exploring **LLM Infrastructure, Agentic Workflows, Context Engineering & System Design**
+- 💭 &nbsp;I enjoy **simplifying complexity through thoughtful engineering and product thinking**
+<!-- - 🌐 &nbsp;Portfolio &nbsp;→&nbsp; **[your-portfolio.com](https://your-portfolio.com)** -->
+- 📫 &nbsp;Reach me at &nbsp;→&nbsp; **sanketparekh17@gmail.com**
+
+<br/>
+
+<!-- ===== TECH STACK ===== -->
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<!-- #### Frontend
+<img src="https://skillicons.dev/icons?i=react,javascript,typescript,html,css,tailwind&theme=dark" />
+
+#### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,go,express,graphql,fastapi&theme=dark" />
+
+#### Database & Cache
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" />
+
+#### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,linux,bash&theme=dark" /> -->
+
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=typescript,javascript,python&theme=dark" />
+
+### ⚙️ Backend Engineering
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi&theme=dark" />
+
+### 🗄️ Data & Messaging
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white)
+![Aerospike](https://img.shields.io/badge/Aerospike-C41230?style=for-the-badge)
+
+### 🤖 AI Engineering
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0F172A?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI_Agents-6366F1?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-0891B2?style=for-the-badge)
+
+### ☁️ Infrastructure
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git,github&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ===== GITHUB STATS =====
+  IF THESE CARDS BREAK: the public github-readme-stats.vercel.app instance
+  is rate-limited. The cache_seconds param below helps GitHub hold a good
+  copy once it loads. PERMANENT FIX = self-host your own instance:
+    1. Open the github-readme-stats repo, click "Deploy to Vercel",
+       add a GitHub PAT (classic, no scopes) as env var PAT_1.
+    2. You get a URL like  https://YOUR-NAME-stats.vercel.app
+    3. Find/replace every  github-readme-stats.vercel.app
+       with  YOUR-NAME-stats.vercel.app  in the two URLs below.
+-->
+## 📊 GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/parekh-sanket">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=parekh-sanket&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=parekh-sanket&layout=compact&langs_count=8&theme=buefy"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=parekh-sanket&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parekh-sanket&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&cache_seconds=86400" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parekh-sanket&theme=tokyonight&hide_border=true&background=1a1b27" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+
+<!-- ===== CONTRIBUTION SNAKE ===== -->
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/parekh-sanket/parekh-sanket/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+<br/>
+
+<!-- ===== FOOTER WAVE ===== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ADB5,50:6366f1,100:1a1b27&height=120&section=footer" alt="footer"/>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/parekh-sanket">parekh-sanket</a></i>
 </p>
