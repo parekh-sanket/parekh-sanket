@@ -11,7 +11,7 @@
 <!-- ===== SOCIAL / PROFILE BADGES ===== -->
 <p align="center">
   <!-- <a href=""><img src="https://img.shields.io/badge/🚀_Portfolio-rushikeshpurohit.in-0a0a23?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
-  <a href="https://www.linkedin.com/in/parekh-sanket-87066b196/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sanket-parekh-87066b196"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sanketparekh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=parekh-sanket&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" /> -->
 </p>
