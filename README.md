@@ -81,7 +81,7 @@ const sanket = {
 - 🚀 &nbsp;Building **AI-powered products**, **distributed backend systems**, and **0→1 platforms**
 - 🧠 &nbsp;Currently exploring **LLM Infrastructure, Agentic Workflows, Context Engineering & System Design**
 - 💭 &nbsp;I enjoy **simplifying complexity through thoughtful engineering and product thinking**
-- 🌐 &nbsp;Portfolio &nbsp;→&nbsp; **[sanketparekh.com](https://sanketparekh-portfolio-website.netlify.app//)**
+- 🌐 &nbsp;Portfolio &nbsp;→&nbsp; **[sanketparekh.com](https://sanketparekh-portfolio-website.netlify.app)**
 - 📫 &nbsp;Reach me at &nbsp;→&nbsp; **sanketparekh17@gmail.com**
 
 <br/>
