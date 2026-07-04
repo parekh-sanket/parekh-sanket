@@ -10,7 +10,7 @@
 
 <!-- ===== SOCIAL / PROFILE BADGES ===== -->
 <p align="center">
-  <a href="https://portfolio-website-one-mu-10.vercel.app"><img src="https://img.shields.io/badge/🚀_Portfolio-sanketparekh.com-0a0a23?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sanketparekh-portfolio-website.netlify.app/"><img src="https://img.shields.io/badge/🚀_Portfolio-sanketparekh.com-0a0a23?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sanket-parekh-87066b196"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sanketparekh17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <!-- <img src="https://komarev.com/ghpvc/?username=parekh-sanket&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="profile views" /> -->
@@ -81,7 +81,7 @@ const sanket = {
 - 🚀 &nbsp;Building **AI-powered products**, **distributed backend systems**, and **0→1 platforms**
 - 🧠 &nbsp;Currently exploring **LLM Infrastructure, Agentic Workflows, Context Engineering & System Design**
 - 💭 &nbsp;I enjoy **simplifying complexity through thoughtful engineering and product thinking**
-- 🌐 &nbsp;Portfolio &nbsp;→&nbsp; **[sanketparekh.com](https://portfolio-website-one-mu-10.vercel.app/)**
+- 🌐 &nbsp;Portfolio &nbsp;→&nbsp; **[sanketparekh.com](https://sanketparekh-portfolio-website.netlify.app//)**
 - 📫 &nbsp;Reach me at &nbsp;→&nbsp; **sanketparekh17@gmail.com**
 
 <br/>
